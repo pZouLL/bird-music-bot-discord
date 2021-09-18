@@ -13,6 +13,7 @@ bot = commands.Bot(command_prefix="-", intents=intents)
 
 allowed_users = {
     'pzoull' : '287766415744958466',
+    'jameslie' : '424397543729004544'
 }
 
 
