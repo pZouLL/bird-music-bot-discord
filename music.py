@@ -269,4 +269,4 @@ async def setup():
 
 bot.loop.create_task(setup())
 
-bot.run('ODg3NTcxNTE1OTQ2NzA0OTI2.YUGFYw.8VUELMaV2Lzy0M1MsCc1RLpZ4w4')
+bot.run('ODg3NTcxNTE1OTQ2NzA0OTI2.YUGFYw.SMsvigSyjOKs2C9i5LsUthhGnuw')
